@@ -3,3 +3,6 @@ pandas
 plotly
 streamlit-option-menu
 streamlit-antd-components
+streamlit-card
+st-ant-statistic
+streamlit-modal
