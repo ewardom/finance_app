@@ -1,0 +1,8 @@
+Fecha,Cuenta,Cantidad,Tipo de Movimiento,Categoría,Subcategoría,Descripción,Hora,Cuenta Destino
+2025-05-16,Plata,799.0,Gasto,Salud,Gimnasio,EveryDay 24/7,16:16:00,
+2025-05-25,Plata,174.5,Gasto,Otros,Internet,Telmex,16:16:00,
+2025-05-26,Plata,164.5,Gasto,Entretenimiento,Streaming,Netflix,16:17:00,
+2025-05-15,BBVA,10000.0,Ingreso,Salario,Coppel,,16:18:00,
+2025-05-30,BBVA,10000.0,Ingreso,Salario,Coppel,,16:19:00,
+2025-05-02,BBVA,6000.0,Gasto,Transporte,Financiamiento,Mazda 3 - 2022,16:20:00,
+2025-05-30,Plata,2500.0,Gasto,Transporte,Gasolina,,16:20:00,
